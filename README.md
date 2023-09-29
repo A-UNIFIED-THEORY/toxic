@@ -27,28 +27,46 @@ Toxic is a discord server nuker with a GUI. This is technically just a coding ex
 ## Decoy/Regular Commands
 
 /ping - Gives the ping of the bot
+
 /kick - Kicks a specified user
+
 /ban - Bans a specified user
+
 /info - Gives information of a user (ID, highest role, date joined, etc.)
+
 /invite - Gives an invite link of the bot
+
 /clear - Clears a certain amount of messages
+
 /help - Shows a list of decoy commands
+
 /create - Creates a channel
 
 
 ## Nuking Commands
 
 nukehelp - Tells you the commands.
+
 dmall - DM's the whole server.
+
 kickall - Kicks the whole server.
+
 banall - Bans the whole server.
+
 nickall - Nicknames the whole server.
+
 admin - Gives you admin.
+
 adminall - Gives the whole server admin.
+
 kaboom - The most important command, deletes all channels and makes more, then pings everyone in those channels.
+
 delroles - Deletes all roles.
+
 delchannels - Deletes all channels.
+
 roles - Deletes all roles, then makes more with a specific name.
+
 
 
 ## Contributing
