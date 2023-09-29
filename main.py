@@ -131,7 +131,7 @@ def loadjson():
             token = lol["token"]
             print(Fore.GREEN + "[/] Loading bot..")
         except KeyError:
-            print(Fore.RED + f"[-] ERROR: {aaa}.json has incorrect data. Please try copying the json here (https://amweird.neocities.org/lolol.css) and filling out your settings, then reselect this option.")
+            print(Fore.RED + f"[-] ERROR: {aaa}.json has incorrect data. Please try copying the json here (https://github.com/A-UNIFIED-THEORY/toxic/blob/main/example.json) and filling out your settings, then reselect this option.")
             a = input("[X] Press enter to go back")
             os.system('cls')
             mainload()
