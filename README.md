@@ -7,42 +7,21 @@ Toxic is a discord server nuker with a GUI. This is technically just a coding ex
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications) and select New Application, or select an old one if you already tried a bot that said to do this.
 
-![](/images/step1.PNG)
+2. Name your application, and agree to the Dev TOS and Dev Policy.
 
-2. Name your application, and agree to the Dev TOS and Dev Policy (even though we both know nobodys reading that)
-
-![](/images/step2.PNG)
-
-3. Go to the "Bot" tab of your application, and press "Add Bot". This will make your nuker a thing.
-
-![](/images/step3.PNG)
+3. Go to the "Bot" tab of your application, and press "Add Bot". This will make your bot a thing.
 
 4. Your bot should come up, play around with the name and pfp and "General Information" tab. Once done, click "Reset Token", and enter your 2FA code if you have that setup.
 
-![](/images/step4.PNG)
+5. Copy your token. Reminder: NEVER give your bots token or your token to ANYONE if you dont know the code they will run with it.
 
-5. Copy your token, i have mine blurred out for privacy reasons. Reminder: NEVER give your bots token or your token to ANYONE, if you dont know the code they will run with it.
+7. Go back to the gen, and go to General Information. Copy the Client ID.
 
-![](/images/step5.PNG)
+9. Run the bot, then select option 2 in the menu.
 
-6. Paste your token into the "TOKEN" variable. This is what allows your bot to nuke the server.
+10. Paste your token and client ID when prompted, along with all the other settings.
 
-![](/images/step6.PNG)
-
-7. Go back to the dev portal, and go to OAuth2 > URL Generator. Click these exact checkmarks. If you dont see them, **look harder**.
-
-![](/images/step7.PNG)
-![](/images/step8.PNG)
-
-8. Copy your url, and paste it into your notepad to save for later. Then paste it into BOT_INVITE.
-
-![](/images/step10.PNG)
-
-9. Convince the admins in your server to invite the bot.
-
-![](/images/step11.PNG)
-
-**Congratulations! The bot is now ready to use! Just play with the settings in main.py, and run the code. Your bot should be ready!**
+**Congratulations! The bot is now ready to use! Just play with the settings in the .json if needed, and run the code. Your bot should be ready!**
 
 
 ## Decoy/Regular Commands
